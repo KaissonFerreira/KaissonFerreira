@@ -11,6 +11,7 @@ Life is made up of goals and metrics. Passionate about **data science** and **te
 * :soccer: :books:  My favorite hobbies are playing football, hiking and reading. (I also love to see memes involving data science - I learn even in those hours)
 
 ## :bookmark_tabs: Interests:
+* Project themes (financial market and public policies)
 * Python
 * Machine Learning
 * SQL
