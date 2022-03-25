@@ -4,7 +4,7 @@
 Life is made up of goals and metrics. Passionate about **data science** and **technology**.
 
 ## :speech_balloon: A little about myself:
-* :mortar_board: I am finishing the **Chemical Engineering** course, so you will probably see some projects involving applications in this area.
+* :mortar_board: I have a degree in Chemical Engineering, so you will probably see some projects involving applications in this area.
 * :bulb: I started to become interested in this area of Data Science in January 2021, and since then I have been constantly developing my technical skills.
 * :house_with_garden: I am Brazilian.
 * :laughing: I am a very curious person, so I like to learn about many things.
