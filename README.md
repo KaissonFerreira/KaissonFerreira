@@ -1,7 +1,7 @@
 # Kaisson Ferreira :computer: :bar_chart: :chart_with_upwards_trend:
 ### Hi there 👋 Welcome to my GitHub!
 
-Life is made up of goals and metrics. Passionate about **data science** and **technology**.
+Life is made up of goals and metrics. Passionate about **data science, MLOps** and **technology**.
 
 ## :speech_balloon: A little about myself:
 * :mortar_board: I have a degree in Chemical Engineering, so you will probably see some projects involving applications in this area.
