@@ -36,6 +36,6 @@
 
 ### 📫 Contact
 
-[Website](https://agencia.vdcia.com/) · [X / Twitter](https://x.com/kaisson11) · ✉️ kaysson_17@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/kaisson-ferreira-813540127/) · [Website](https://agencia.vdcia.com/) · [X / Twitter](https://x.com/kaisson11) · ✉️ kaysson_17@hotmail.com
 
 <sub>🇧🇷 Também falo português — fale comigo sobre dados, IA e automação para o seu negócio.</sub>
