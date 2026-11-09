@@ -1,56 +1,41 @@
-# Kaisson Ferreira :computer: :bar_chart: :chart_with_upwards_trend:
-### Hi there 👋 Welcome to my GitHub!
+# Hi, I'm Kaisson 👋
 
-Life is made up of goals and metrics. Passionate about **data science, MLOps** and **technology**.
+**Senior Data Scientist · ML & GenAI Engineer** — I build data and AI products that move business metrics, not just model metrics.
 
-## :bookmark_tabs: Skills and Technologies:
+- 📈 **Today:** Senior Data Scientist in the Brazilian capital markets (equities / trading). I build customer-behavior models — churn, propensity, survival analysis — and the Databricks pipelines that feed them.
+- 🤖 **Building:** founder of [VDC.IA](https://agencia.vdcia.com/) — AI agents, automations and micro-SaaS for small businesses, plus hands-on AI education.
+- 🎯 **Focus:** taking ML and LLM systems from notebook to production — RAG, agents, MLOps and the data engineering underneath.
+- 🌎 Based in São Paulo, Brazil · open to remote / international roles.
 
-**PROGRAMMING LANGUAGE AND DATABASE**
-• Python focused on data analysis
-• Web Scraping with python
-• SQL for data extraction
-• SQLite and MySQL database (Postgres, Oracle and Mongo DB)
+---
 
-**STATISTICS AND MACHINE LEARNING**
-• Descriptive statistics (Scatter, location, asymmetry, kurtosis and density)
-• Regression, classification, Natural Language Processing, clustering and “learn to rank” algorithms.
-• Data balancing techniques (SMOTE), attribute selection (Feature engineer) and Dimensionality reduction (PCA)
-• Algorithm performance metrics (RMSE, MAE, MAPE, Confusion Matrix, Precision, Recall, ROC Curve, Lift Curve, AUC, Silhouette Score, DB-index).
-• Machine Learning Packages: TensorFlow, ScikitLearn and Spacy (NLP)
+### 🧰 Stack
 
-**DATA VIEW**
-• Matplolib, Seaborn and Plotly
-• Power BI and Data Studio.
+| Area | Tools |
+|---|---|
+| **Data & ML** | Python · SQL · Pandas · scikit-learn · survival analysis (Kaplan-Meier) · forecasting · NLP |
+| **Data Engineering** | Databricks · PySpark · Delta Lake · Unity Catalog · Airflow · BigQuery |
+| **GenAI** | LLM APIs · RAG · embeddings / vector DBs · multi-agent systems · n8n |
+| **Product & Apps** | FastAPI · Next.js · TypeScript · Supabase / PostgreSQL · Vercel |
+| **Analytics** | Power BI · Plotly · Streamlit |
 
-**SOFTWARE ENGINEERING**
-• Git, GitHub, Cookiecutter, Poetry, Virtual Environment, Dotenv, Docker and Linux.
-• StreamLit, FastAPI, Flask, Python API's.
-• Cloud Heroku, AWS Amazon, Google Cloud Platform (GCP) and Azure.
+---
 
-**DATA ENGINEERING**
-• Jenkins, Airflow, Apache Beam
-• Kubernetes
-• ETL and ELT (Python)
-• Dataform and BigQuery (Data warehouse for Big Data)
+### 📂 Selected open-source projects
 
-## :bookmark_tabs: Interests:
-* Project themes (financial market, customer acquisition and public policies)
-* Python
-* Machine Learning
-* Big Data
-* SQL
-* Artificial intelligence
-<!--
-**KaissonFerreira/KaissonFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Business problem | Approach |
+|---|---|---|
+| [Rossmann sales forecast](https://github.com/KaissonFerreira/Rossman_forecast_sales) | Forecast 6 weeks of daily sales for 3,000+ drugstores in 7 countries | Time-series regression with feature engineering |
+| [Health insurance cross-sell](https://github.com/KaissonFerreira/health_insurance_cross_sell) | Sales can make 2,000 calls to a 380k-customer base: who should they call? | Propensity model ranking customers, gain measured by lift curve vs. random |
+| [Airbnb first destination](https://github.com/KaissonFerreira/airbnb_predict) | Predict a new user's first booking country | Multiclass classification served through an API |
+| [Product review classifier](https://github.com/KaissonFerreira/text_classifier) | Classify e-commerce customer reviews | NLP pipeline |
 
-Here are some ideas to get you started:
+> Most of my recent work (client products at VDC.IA and models in finance) lives in private repos. Happy to walk through architecture and results in a conversation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact
+
+[Website](https://agencia.vdcia.com/) · [X / Twitter](https://x.com/kaisson11) · ✉️ kaysson_17@hotmail.com
+
+<sub>🇧🇷 Também falo português — fale comigo sobre dados, IA e automação para o seu negócio.</sub>
